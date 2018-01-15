@@ -9,7 +9,7 @@
 ## malduino hardware
 [Hardware](https://github.com/enzotrompeneers/malduino/blob/master/Malduino-hardware.docx)   
 ## malduino powerpoint
-[Powerpoint](https://github.com/enzotrompeneers/malduino/blob/master/powerpoint.ppt)   
+[Powerpoint](https://github.com/enzotrompeneers/malduino/blob/master/malduino.pptx)   
 
 ## Research
 ### Intro
