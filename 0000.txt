@@ -1,0 +1,59 @@
+DELAY 1000
+DEFAULTDELAY 1000
+STRING name=research5
+ENTER
+DEFAULTDELAY
+GUI SPACE
+DELAY 1000
+STRING Terminal
+DELAY 1000
+ENTER
+DELAY 1000
+STRING cd ~/Documents/school/research/malduino/
+ENTER
+DELAY 2000
+STRING laravel new $name
+ENTER
+DELAY 15000
+STRING git add .
+ENTER
+DEFAULTDELAY
+STRING git commit –m "init project"
+ENTER 
+DELAY 1000
+STRING git push origin master
+ENTER
+DELAY 5000
+STRING cd $name
+ENTER
+DEFAULTDELAY
+STRING yarn install
+ENTER
+DELAY 15000
+STRING php artisan serve
+ENTER
+DEFAULTDELAY
+COMMAND t
+DELAY 5000
+STRING yarn run watch
+ENTER
+DELAY 5000
+COMMAND t
+DELAY 5000
+STRING git add .
+ENTER
+DEFAULTDELAY
+STRING git commit –m “init yarn”
+ENTER
+DEFAULTDELAY
+STRING git push origin master
+ENTER
+DELAY 5000
+
+
+
+
+
+
+
+
