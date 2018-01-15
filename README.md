@@ -5,4 +5,6 @@
 ## malduino syntax
 [Syntax](https://github.com/enzotrompeneers/malduino/blob/master/Malduino-syntax.docx)  
 ## malduino setup
-[setup](https://github.com/enzotrompeneers/malduino/blob/master/Malduino-setup.docx)  
+[Setup](https://github.com/enzotrompeneers/malduino/blob/master/Malduino-setup.docx) 
+## malduino hardware
+[Hardware](https://github.com/enzotrompeneers/malduino/blob/master/Malduino-hardware.docx)   
